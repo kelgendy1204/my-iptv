@@ -1,9 +1,18 @@
 #EXTM3U
 #EXTINF:-1, Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+
 #EXTINF:-1, Quran Radio
 http://n09.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABg5P61AcA-OkQR7z0d78clw
-#EXTINF:-1, AlJazeera Arabic
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1664662724/ei/ZGg4Y4DxDYalx_APzJ2EqAU/ip/92.205.10.243/id/eJ6ZMd4sVrI.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-4g5e6nsr.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/1398750/mh/9_/mip/5.253.115.29/mm/44/mn/sn-4g5e6nsr/ms/lva/mv/m/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1664640789/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAOZh79TNlZCF5DyfoFOkcmnxL1iQDSNjCIG4nQiRY5w_AiEAm0C5G_5cfbGxPZmkgg1J2MHlRg2e67IaZVyyzRxk8bU%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAN6yDDBvHz-sZxNRXDqrHMmMHSRpAPvJTKPTM5sv9LzPAiBeY5ByOtLfOZDr4KPhhExpH2k9LLxtZvJJVJc5L_8ysQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1, AlJazeera English
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1664661225/ei/iGI4Y7fEL86IgAeUm7qIBQ/ip/5.253.115.29/id/F-POY4Q0QSI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-4g5edn6r.googlevideo.com/ctier/SPL/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1398750/mh/fI/mm/44/mn/sn-4g5edn6r/ms/lva/mv/m/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1664640789/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,ctier,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANaEU9gpxBusTEKpQIIishCfvrjTXkGKKv4tH9NHquGjAiEA_NRB0m7W-S98ltmaqEOxGNNUQGgMCbZNnUZwHIp_DV0%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAKyERT3JRhurRH_FruGgzcfwF4EcyCCMGTmZhomip3ELAiAZ9hze7-SbfqoJv55oi_46G_RwbQJvQtNrAt5TwQMc0w%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1, Al Jazeera Arabic
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeera/live
+
+#EXTINF:-1, MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+
+#EXTINF:-1, MBC Masr 1 USA
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+
+#EXTINF:-1, MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
